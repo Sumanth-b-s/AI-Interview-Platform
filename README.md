@@ -1,50 +1,98 @@
-# Welcome to your Expo app 👋
+# 🚀 AI Interview Platform
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+An AI-powered Career Assistant Platform built using React Native Expo, Node.js, MongoDB, and Gemini AI.
 
-## Get started
+---
 
-1. Install dependencies
+## ✨ Features
 
-   ```bash
-   npm install
-   ```
+- **AI Resume Analyzer**
+- **ATS Score Detection**
+- **AI Interview Questions**
+- **Confidence Score Analysis**
+- **Emotion Detection**
+- **AI Chat Assistant**
+- **Interview Reports**
+- **MongoDB Database**
+- **Authentication System**
 
-2. Start the app
+---
 
-   ```bash
-   npx expo start
-   ```
+## 🛠️ Tech Stack
 
-In the output, you'll find options to open the app in a
+### Frontend
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+- React Native Expo
+- TypeScript
+- Axios
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+### Backend
 
-## Get a fresh project
+- Node.js
+- Express.js
+- MongoDB
 
-When you're ready, run:
+### AI
 
-```bash
-npm run reset-project
-```
+- Google Gemini AI
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
+## 📱 Screens
 
-To learn more about developing your project with Expo, look at the following resources:
+- Login Screen
+- Signup Screen
+- Dashboard
+- Resume Analyzer
+- AI Interview
+- AI Chat
+- Reports
+- Profile Screen
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+---
 
-## Join the community
+## ⚙️ Frontend Setup
 
-Join our community of developers creating universal apps.
+npm install
+npx expo start
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+---
+
+## ⚙️ Backend Setup
+
+cd backend
+npm install
+node server.js
+
+---
+
+## 🔑 Environment Variables
+
+Create a .env file inside the backend folder:
+
+MONGO_URI=YOUR_MONGODB_URL
+GEMINI_API_KEY=YOUR_API_KEY
+JWT_SECRET=YOUR_SECRET_KEY
+
+---
+
+## 🚀 Future Enhancements
+
+- AI Speech-to-Text
+- Video Interview Analysis
+- AI Resume Builder
+- AI Job Recommendation
+- Online Deployment
+
+---
+
+## 👨‍💻 Developed By
+
+Sumanth B S  
+MCA Final Year Project
+
+---
+
+## ⭐ GitHub Repository
+
+If you like this project, give it a ⭐ on GitHub.
