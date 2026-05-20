@@ -89,7 +89,6 @@ JWT_SECRET=YOUR_SECRET_KEY
 ## 👨‍💻 Developed By
 
 Sumanth B S  
-MCA Final Year Project
 
 ---
 
