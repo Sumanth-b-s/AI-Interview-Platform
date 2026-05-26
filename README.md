@@ -81,7 +81,8 @@ JWT_SECRET=YOUR_SECRET_KEY
 <p align="center">
   <img src="WhatsApp Image 2026-05-26 at 2.46.09 PM (2).jpeg" width="230"/>
   <img src="WhatsApp Image 2026-05-26 at 2.46.09 PM (1).jpeg" width="230"/>
-  <img src="assets/images/interview.png" width="230"/>
+  <img src="WhatsApp Image 2026-05-26 at 2.46.06 PM (1).jpeg" width="230"/>
+  <img src="WhatsApp Image 2026-05-26 at 2.46.06 PM (1).jpeg" width="230"/>
 </p>
 
 ---
