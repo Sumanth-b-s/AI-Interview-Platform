@@ -76,6 +76,16 @@ JWT_SECRET=YOUR_SECRET_KEY
 
 ---
 
+## 📱 App Preview
+
+<p align="center">
+  <img src="assets/images/dashboard.png" width="230"/>
+  <img src="assets/images/resume.png" width="230"/>
+  <img src="assets/images/interview.png" width="230"/>
+</p>
+
+---
+
 ## 🚀 Future Enhancements
 
 - AI Speech-to-Text
